@@ -1,0 +1,4 @@
+com\bookstore\controller\PageController.class
+com\bookstore\config\WebConfig.class
+com\bookstore\config\WebAppInitializer.class
+com\bookstore\config\RootConfig.class
